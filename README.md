@@ -46,6 +46,7 @@ Visualisations:
 
 # Dashboard Preview
 ![Awesome-Chocolates](awesome-ch%20dashboard%201.PNG) 
+![Awesome-Chocolates](awesome-ch%20dashboard%202.PNG)
 
 
 

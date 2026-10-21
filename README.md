@@ -45,7 +45,7 @@ Visualisations:
 - Sales Distribution by Year and Location: Stacked column chart comparing sales across year and locations.
 
 # Dashboard Preview
-  
+![Awesome-Chocolates](awesome-ch%20dashboard%201.PNG) 
 
 
 
